@@ -1,4 +1,4 @@
-# TASK3：HuggingFace Tool Calling × Prompt Injection
+# HuggingFace Tool Calling × Prompt Injection
 
 > 資安主題：**Prompt Injection（提示詞注入攻擊）**
 > 平台：Google Colab（T4 GPU）
